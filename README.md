@@ -1,6 +1,6 @@
 # 🚀 Enterprise Dashboard Frontend
 
-A modern, responsive, and animated **single-page E-Commerce Dashboard UI** built entirely with **HTML, CSS, and JavaScript**.
+A modern, responsive, and animated **single-page E-Commerce Dashboard UI** built entirely with **HTML**.
 
 This project focuses on delivering a clean and professional admin dashboard experience with a polished interface, smooth interactions, and reusable UI sections. It is intended as a **frontend-only template** and does not include backend functionality or API integrations.
 
