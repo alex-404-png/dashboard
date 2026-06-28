@@ -34,7 +34,7 @@ This project focuses on delivering a clean and professional admin dashboard expe
 project/
 │
 ├── index.html
-├── assets/ # IF YOU WANT TO ADD U CAN ADD BELOW THINGS
+├── assets/ # IF YOU WANT TO ADD U CAN ADD BELOW DIRECTORIES
 │   ├── css/
 │   ├── js/
 │   ├── images/
