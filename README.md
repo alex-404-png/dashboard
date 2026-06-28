@@ -49,7 +49,7 @@ project/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/enterprise-dashboard.git
+git clone https://github.com/alex-404-png/dashboard/tree/main
 ```
 
 ### Open the Project
@@ -63,9 +63,6 @@ Or use a local development server such as VS Code Live Server.
 ## 💻 Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (Vanilla)
-
 ---
 
 ## 🎨 UI Components
@@ -102,7 +99,7 @@ Optimized for:
 ## ⚡ Performance
 
 - Lightweight HTML Structure
-- Optimized CSS
+- Optimized 
 - Fast Loading
 - Responsive UI
 - Clean Code Organization
